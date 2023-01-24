@@ -1,0 +1,34 @@
+2023-01-05 11:07:58,732 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-05 11:27:15,903 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm:Demo-Core-Spring-Project:0.0.1-SNAPSHOT @ C:\Users\003OQT744\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\Demo-Core-Spring-Project\pom.xml.
+2023-01-05 11:27:33,232 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Demo-Core-Spring-Project/src/main/java
+2023-01-05 11:27:33,235 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Demo-Core-Spring-Project/src/main/resources
+2023-01-05 11:27:33,245 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Demo-Core-Spring-Project/src/main/resources
+2023-01-05 11:27:33,247 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Demo-Core-Spring-Project/src/test/java
+2023-01-05 11:27:33,769 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 36 sec
+2023-01-05 11:27:33,879 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-01-05 11:27:34,562 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm:Demo-Core-Spring-Project:0.0.1-SNAPSHOT @ C:\Users\003OQT744\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\Demo-Core-Spring-Project\pom.xml.
+2023-01-05 11:27:35,520 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Demo-Core-Spring-Project/src/main/java
+2023-01-05 11:27:35,521 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Demo-Core-Spring-Project/src/main/resources
+2023-01-05 11:27:35,523 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Demo-Core-Spring-Project/src/main/resources
+2023-01-05 11:27:35,528 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Demo-Core-Spring-Project/src/test/java
+2023-01-05 11:27:36,835 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2023-01-05 11:28:17,034 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.application:demolom:0.0.1-SNAPSHOT @ C:\Users\003OQT744\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\demolom\pom.xml.
+2023-01-05 11:28:19,731 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demolom/src/main/java
+2023-01-05 11:28:19,732 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demolom/src/main/resources
+2023-01-05 11:28:19,733 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demolom/src/main/resources
+2023-01-05 11:28:19,744 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demolom/src/test/java
+2023-01-05 11:28:19,744 [Worker-11: Importing Maven projects] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-18', falling back to workspace default
+2023-01-05 11:28:20,377 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2023-01-05 11:28:58,487 [Worker-15: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.crs.ibm:IBM-CRS-Spring-Core-Project:0.0.1-SNAPSHOT @ C:\Users\003OQT744\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\IBM-CRS\pom.xml.
+2023-01-05 11:28:58,746 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /IBM-CRS/src/main/java
+2023-01-05 11:28:58,746 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /IBM-CRS/src/main/resources
+2023-01-05 11:28:58,746 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /IBM-CRS/src/main/resources
+2023-01-05 11:28:58,747 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /IBM-CRS/src/test/java
+2023-01-05 11:28:58,877 [Worker-15: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2023-01-05 11:29:27,984 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springboot.blog:springboot-blog-rest-api:0.0.1-SNAPSHOT @ C:\Users\003OQT744\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\springboot-blog-rest-api\springboot-blog-rest-api\pom.xml.
+2023-01-05 11:29:30,817 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-blog-rest-api/src/main/java
+2023-01-05 11:29:30,818 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-blog-rest-api/src/main/resources
+2023-01-05 11:29:30,818 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-blog-rest-api/src/main/resources
+2023-01-05 11:29:30,819 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-blog-rest-api/src/test/java
+2023-01-05 11:29:31,217 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2023-01-17 12:05:27,239 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

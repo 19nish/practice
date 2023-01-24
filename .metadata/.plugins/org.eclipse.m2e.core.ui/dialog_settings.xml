@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\003OQT744\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\springboot-blog-rest-api"/>
+			<item value="C:\Users\003OQT744\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\IBM-CRS"/>
+			<item value="C:\Users\003OQT744\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\demolom"/>
+			<item value="C:\Users\003OQT744\Documents\workspace-spring-tool-suite-4-4.17.1.RELEASE\Demo-Core-Spring-Project"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
